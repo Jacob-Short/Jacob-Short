@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jacob-Short.
 - 👀 I’m interested in back-end web development and data science.
-- 🌱 I’m currently learning django & psql.
+- 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on full-stack web applications.
 - 📫 How to reach me => jacobshort.stu@gmail.com
 
