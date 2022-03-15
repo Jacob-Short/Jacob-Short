@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jacob-Short.
 - 👀 I’m interested in back-end web development.
-- 🌱 I’m currently learning Java & Spring Boot.
+- 🌱 I’m currently learning Java & AWS.
 - 💞️ I’m looking to collaborate on full-stack web applications.
 - 📫 How to reach me => jacobshort.stu@gmail.com
 
